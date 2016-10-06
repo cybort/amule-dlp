@@ -131,6 +131,10 @@ protected:
 	void OnInitDialog( wxInitDialogEvent& evt );
 
 	DECLARE_EVENT_TABLE()
+
+private:
+	bool	m_verticalToolbar;
+	bool	m_toolbarOrientationChanged;
 };
 
 #endif
