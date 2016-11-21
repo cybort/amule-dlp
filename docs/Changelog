@@ -2,7 +2,6 @@ Version 2.4.0 - The river knows.
 ----------
 201?-??-??
 
-
 	gaffatape:
 		* Workaround for bug in wxWidgets causing aMule to crash on
 		  closing the last search tab
@@ -11,11 +10,6 @@ Version 2.4.0 - The river knows.
 		* Fix restoring toolbar orientation on 'Cancel'
 		* Features ported from eMule:
 			- Find best keyword for Kad search (0.49c)
-
-	persmule:
-		* Fix sharing directories with non-ASCII names with aMule daemon
-		* Fix potential invalid detection for empty wxCharBuffer
-
 
 --------------------------------------------------------------------------------
 
